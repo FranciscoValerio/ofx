@@ -1,0 +1,26 @@
+# https://dart.dev/guides/libraries/private-files
+
+build/
+.dart_tool/
+packages
+.packages
+.pub
+.pubspec.lock
+
+.buildlog
+*.js_
+*.js.deps
+*.js.map
+*.dart.js
+
+# Eclipse
+.project
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac
+.DS_Store

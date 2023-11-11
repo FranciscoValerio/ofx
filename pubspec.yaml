@@ -1,0 +1,14 @@
+name: ofx
+description: convert string ofx (Open Financial Exchange) file to a class 
+version: 1.0.0
+repository: https://github.com/FranciscoValerio/ofx
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+  xml2json: ^6.2.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
